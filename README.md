@@ -1,3 +1,3 @@
-# DevOps Class1
+# CI pipeline with Actions
 
-Lets learn about github in this class.
+Lets learn about github actions in this class.
