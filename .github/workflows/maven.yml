@@ -36,6 +36,9 @@ jobs:
       with:
         path: target/*.jar
     
+    - name: Docker Build
+      run: |
+        docker build -t g1tvinod/myapp .
 
 
     
